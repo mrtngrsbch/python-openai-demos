@@ -80,6 +80,7 @@ Estos scripts pueden ejecutarse con una cuenta de Azure OpenAI, OpenAI.com, serv
     ```shell
     az login
     ```
+
 3. Para OpenAI.com, actualiza el archivo `.env` con tu clave API de OpenAI y el nombre del modelo deseado.
 
     ```bash
